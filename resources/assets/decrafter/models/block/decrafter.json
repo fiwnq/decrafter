@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "decrafter:block/oak_planks",
+    "up": "decrafter:block/crafting_table_top",
+    "north": "decrafter:block/crafting_table_front",
+    "east": "decrafter:block/crafting_table_side",
+    "south": "decrafter:block/crafting_table_side",
+    "west": "decrafter:block/crafting_table_side",
+    "particle": "decrafter:block/oak_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,6 +1,6 @@
 # Decrafter
 
-This is a Minecraft mod compatible with Forge 1.18.2.
+This is a Minecraft mod compatible with Forge 1.18.2 and 1.20.1.
 
 Adds a block that converts craftable items and blocks into their respective ingredients.
 

@@ -4,12 +4,15 @@ license="MIT License"
 
 [[mods]]
 modId="decrafter"
-version="1.0"
+version="1.1"
 displayName="Decrafter"
-displayURL="https://twitter.com/fiwnq"
+displayURL="https://jland.dev"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="fiwnq"
-description="Adds a recycler block to easily convert items and blocks into their respective items used to craft it."
+description="Adds a decrafter block to easily convert items and blocks into their respective items used to craft it."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
 
 [[dependencies.decrafter]]
     modId="minecraft"
@@ -17,3 +20,9 @@ description="Adds a recycler block to easily convert items and blocks into their
     versionRange="[1.20.1]"
     ordering="AFTER"
     side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

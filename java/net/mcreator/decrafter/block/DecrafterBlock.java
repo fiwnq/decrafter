@@ -43,7 +43,7 @@ public class DecrafterBlock extends Block {
 			NetworkHooks.openScreen(player, new MenuProvider() {
 				@Override
 				public Component getDisplayName() {
-					return Component.literal("Recycler");
+					return Component.literal("Decrafter");
 				}
 
 				@Override

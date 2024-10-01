@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "Adds a recycler block to easily convert items and blocks into their respective items used to craft it."
+    "description": "Adds a decrafter block to easily convert items and blocks into their respective items used to craft it."
   }
 }

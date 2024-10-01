@@ -1,5 +1,5 @@
 {
-  "block.decrafter.decrafter": "Recycler",
+  "block.decrafter.decrafter": "Decrafter",
   "gui.decrafter.decrafter_gui.button_empty": "----\u003e",
-  "gui.decrafter.decrafter_gui.label_recycler": "Recycler"
+  "gui.decrafter.decrafter_gui.label_recycler": "Decrafter"
 }
